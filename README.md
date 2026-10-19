@@ -11,4 +11,4 @@ A-Level student in Lahore, Pakistan (Mathematics, Further Mathematics, Physics, 
 - Design work for a restaurant's stock-control system (proprietary, so not published).
 
 ## Working with
-Statistics, data analysis and Git. My work spans the designing phases of my projects more than the coding phase of it.
+Statistics, data analysis and Git. My projects are designed exclusively by me, with coding sometimes outsourced.
